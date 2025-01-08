@@ -11,7 +11,7 @@ model_training/
         |   |-- trainer.py      # Entrenamiento del modelo
         |   |-- evaluator.py    # Evaluación del modelo
         |   |-- saver.py        # Guardado del modelo
-        |-- main.py
+        |-- main.py             # Orquestación del entrenamiento
 |-- data/
     |-- marketing_campaign.csv  # Dataset de Customer Personality Analysis
 |-- models/
